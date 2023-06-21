@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2c4e2b8f2a9d022439a952e23d4b79c8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - inputKitchenObjectSO: {instanceID: 0}
+  - outputKitchenObjectSO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
